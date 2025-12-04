@@ -17,7 +17,7 @@ Experienced in desktop application development, native iOS and Android mobile de
 <br>
 <div align="center">
   <img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-  
+  [![Anurag's GitHub stats](https://github-readme-stats-test-ldn6.vercel.app/api?username=FadiDaniel)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
