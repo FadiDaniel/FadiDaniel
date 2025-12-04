@@ -64,6 +64,9 @@ Experienced in desktop application development, native iOS and Android mobile de
   </a>
 </p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=FadiDaniel&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
 
 <!--
 **FadiDaniel/FadiDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
