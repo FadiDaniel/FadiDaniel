@@ -15,9 +15,9 @@ Experienced in desktop application development, native iOS and Android mobile de
 </p>
 
 <br>
-<div align="center">
+<div align="center">a
   <img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadidaniel&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=5" alt="fadidaniel" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadidaniel&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=8&cache_seconds=100" alt="fadidaniel" />
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
