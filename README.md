@@ -23,7 +23,7 @@ Experienced in desktop application development, native iOS and Android mobile de
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FadiDaniel&color=brightgreen&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=FadiDaniel&color=317321&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
