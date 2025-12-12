@@ -16,10 +16,14 @@ Experienced in desktop application development, native iOS and Android mobile de
 
 <br>
 <div align="center">
-  <img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+  <img align="center" alt="Cat" width="400" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
  <!-- <img src="https://github-readme-stats-eight-alpha-30.vercel.app/api/top-langs?username=fadidaniel&theme=dark&layout=donut&langs_count=5&hide=html,css" >  -->
-  <img src="https://github-readme-stats-pearl-kappa-46.vercel.app/api/top-langs?username=fadidaniel&theme=dark&layout=donut&langs_count=6&hide=html,css" > 
+  <img align="center" src="https://github-readme-stats-pearl-kappa-46.vercel.app/api/top-langs?username=fadidaniel&theme=dark&layout=compact&langs_count=6&hide=html,css,svg&card_width=400px" > 
 
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=FadiDaniel&color=brightgreen&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -41,14 +45,14 @@ Experienced in desktop application development, native iOS and Android mobile de
 <h3 align="center">Database & Cloud </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,aws,postgres,firebase&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mysql,gcp,mongodb,sqlite,aws,postgres,firebase&theme=light" />
   </a>
 </p>
 
 <h3 align="center">Tools & DevOps </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,powershell,bots,git,github,gitlab,gradle,maven,ps,postman,pytorch,vscode,eclipse,idea,atom,ubuntu,linux,windows&theme=light&perline=6" />
+    <img src="https://skillicons.dev/icons?i=bash,powershell,jenkins,bots,git,github,gitlab,gradle,maven,ps,postman,pytorch,vscode,eclipse,idea,atom,ubuntu,linux,windows&theme=light&perline=6" />
   </a>
 </p>
 
@@ -62,13 +66,10 @@ Experienced in desktop application development, native iOS and Android mobile de
 <h3 align="center">Web Development</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,php&theme=light" />
+    <img src="https://skillicons.dev/icons?i=angular,ts,html,css,js,bootstrap,figma,php&theme=light" />
   </a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FadiDaniel&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
 
 <!--
 **FadiDaniel/FadiDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
