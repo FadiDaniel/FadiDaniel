@@ -4,8 +4,12 @@
 
 
 ## 🚀 About Me
-Professional focused on best practices and the development of sustainable infrastructures.
-Experienced in desktop application development, native iOS and Android mobile development, as well as cross-platform development using Flutter. Skilled in ticketing tools such as Jira, version control with Git, and working with both relational (SQL) and non-relational (NoSQL) databases. Proficient in Java frameworks such as Hibernate and Spring Boot, with hands-on experience in writing unit tests. Additionally, knowledgeable in video game development with Unity using C#.
+I am a software developer primarily focused on back-end and cross-platform development.
+I have experience building APIs with Spring Boot and developing single-page applications (SPA) with Angular. My background also includes desktop application development, native mobile development for iOS and Android, and cross-platform solutions using Flutter.
+ 
+I am experienced in working with both relational (SQL) and non-relational (NoSQL) databases. Additionally, I have developed video games using Unity with C#.
+ 
+I also have experience in prompt engineering, leveraging AI agents to optimize development workflows while adhering to scalable architectural patterns, clean code principles, and language-specific best practices.
 
 <br>
 <p align="center">
