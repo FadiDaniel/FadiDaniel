@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Daniel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
-<img width="1584" height="396" alt="BANNERS (13)" src="https://github.com/user-attachments/assets/b3e95af7-2684-49c5-88d0-c7d0707e8a36" />
+<img width="3384" height="846" alt="BANNERS (15)" src="https://github.com/user-attachments/assets/a70ee233-ef9c-4a8d-9b3c-60799164d72d" />
+
 
 
 ## 🚀 About Me
