@@ -5,12 +5,11 @@
 
 
 ## 🚀 About Me
-I am a software developer primarily focused on back-end and cross-platform development.
-I have experience building APIs with Spring Boot and developing single-page applications (SPA) with Angular. My background also includes desktop application development, native mobile development for iOS and Android, and cross-platform solutions using Flutter.
- 
-I am experienced in working with both relational (SQL) and non-relational (NoSQL) databases. Additionally, I have developed video games using Unity with C#.
- 
-I also have experience in prompt engineering, leveraging AI agents to optimize development workflows while adhering to scalable architectural patterns, clean code principles, and language-specific best practices.
+My primary focus lies in Back-End and Cross-Platform Development. I bring hands-on experience in building robust Spring Boot APIs and modern single-page applications (SPA) with Angular. My software development expertise extends across multiple platforms, including desktop applications, native iOS and Android development, and cross-platform mobile solutions using Flutter.
+
+I am skilled in working with AI-Assisted Engineering technologies, having practical knowledge of AI agents like Claude Code and GitHub Copilot alongside custom skills and automated workflows to optimize development efficiency. I am proficient in managing both relational (SQL) and non-relational (NoSQL) databases, and I also have experience in game development using Unity and C#.
+
+Across all projects, I consistently prioritize clean code, scalable architecture patterns, sustainable development practices, and strict adherence to language conventions.
 
 <br>
 <p align="center">
